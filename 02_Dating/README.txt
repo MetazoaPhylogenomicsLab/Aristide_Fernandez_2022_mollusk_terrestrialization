@@ -52,7 +52,7 @@ alpha_gamma = 2 2      * gamma prior for alpha
 ### NOTE ###
  # for gamma distribution rate = 1/scale
 
- # CALIBRATIONS
+ # CALIBRATIONS (see also Supplementary Material)
 
  NODE 106 'B(5.46,5.58)' following Kocot et al 2020 BEAST gamma distribution 2.5 tail values (Sup. Table 4). Diversification of Mollusks, first shell record
  NODE 134 'B(4.98,5.93)' following Kocot et al 2020 BEAST gamma distribution 2.5 tail values (Sup. Table 4). Split Cephalopoda/(Bivalvia.Gastro.Scapho)
