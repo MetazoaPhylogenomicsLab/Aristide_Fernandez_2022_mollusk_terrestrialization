@@ -4,7 +4,7 @@
 # FILES:
 	
  # OG_size_counts.txt -> Orthogroup/Family size data table from OrthoFinder analysis.
- # OG_tables_badirate -> Orthogroup size data (same as above but one file per OG) for running BadiRate.
+ # OG_tables_badirate -> Folder pointing to orthogroup size data (same as above but one file per OG) for running BadiRate. Note that this folder is not uploaded as they are too many files, and the information is the same as in the OG_size_counts.txt table. To run Badirate for each OG, this table needs to be "decomposed" in one file per line.
  # Run_badirate.txt -> Commands used to run the Local Rates (LR) and Global Rates (GR) BadiRate models.
  # post_times_tree.nwk -> Dated phylogeny for the analysis.
  # Results_LRT.txt -> Estimated likelihoods for each model and OG, the likelihood ratio tests (LRT) and FDR adjusted p values. Note that a few OGs failed to run.
